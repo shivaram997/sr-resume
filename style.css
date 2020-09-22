@@ -1,0 +1,25 @@
+.sec-1 {
+    background-color: rgb(206, 203, 203);
+    padding: 25px;
+}
+
+.image-1 {
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px rgb(34, 44, 71);
+}
+.sec-2 {
+    background-color: rgb(206, 203, 203);
+    
+}
+.sec-3 {
+    background-color: rgb(124, 121, 121);
+}
+.button {
+    text-align: center;
+}
+.button-1 {
+    text-align: start;
+}
+.sec-5 {
+    background-color: rgb(206, 203, 203);
+}
